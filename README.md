@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React-Component Slider
+
+npm install --save rc-slider
+
 ## Chroma.js
 
 npm install --save chroma-js

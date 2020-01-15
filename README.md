@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React-Copy-To-Clipboard
+
+npm install --save react-copy-to-clipboard
+
 ## Available Scripts
 
 In the project directory, you can run:

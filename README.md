@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Chroma.js
+
+npm install --save chroma-js
+
 ## React-Copy-To-Clipboard
 
 npm install --save react-copy-to-clipboard
